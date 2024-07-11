@@ -1,6 +1,3 @@
-# Автор (C) @theSmartBisnu
-# Канал: https://t.me/itsSmartDev
-
 import hashlib
 import time
 import re
